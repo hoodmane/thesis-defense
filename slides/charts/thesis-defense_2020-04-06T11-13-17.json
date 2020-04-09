@@ -1,0 +1,1 @@
+{"classes": {}, "edges": {}, "initial_x_range": [-1, 144], "initial_y_range": [0, 10], "min_page_idx": 0, "name": "test", "nodes": [{"scale": 1, "shape": "circle", "uuid": "14e0d342-62ce-427d-90ac-449ef832f86e"}], "page_list": [[2, 65535], [65535, 65535]], "x_range": [-1, 144], "y_clip_offset": 140, "y_range": [0, 10]}
